@@ -1,0 +1,3224 @@
+{
+  "game_crop": {
+    "left": 81,
+    "top": 190,
+    "right": 1328,
+    "bottom": 815
+  },
+  "window_size": [
+    1247,
+    625
+  ],
+  "target_center": [
+    50,
+    109
+  ],
+  "target_size": 48,
+  "menu_button_center": [
+    1146,
+    80
+  ],
+  "menu_button_size": 160,
+  "level_screens_used_for_labeling": 92,
+  "threshold_value": 5,
+  "labeled_objects": [
+    {
+      "label": "diamond",
+      "props": {
+        "area": 736.5,
+        "avg_b": 163.82330345710628,
+        "avg_g": 161.21766965428935,
+        "avg_r": 116.74519846350832,
+        "aspect_ratio": 0.96875,
+        "bbox": [
+          940,
+          505,
+          31,
+          32
+        ],
+        "level_index": 0,
+        "source_path": "calibration/screenshots\\step08_levels_1_20251202_031518.png"
+      }
+    },
+    {
+      "label": "stone",
+      "props": {
+        "area": 2116.0,
+        "avg_b": 102.03512773722628,
+        "avg_g": 108.1418795620438,
+        "avg_r": 124.13458029197079,
+        "aspect_ratio": 1.2340425531914894,
+        "bbox": [
+          852,
+          491,
+          58,
+          47
+        ],
+        "level_index": 0,
+        "source_path": "calibration/screenshots\\step08_levels_1_20251202_031518.png"
+      }
+    },
+    {
+      "label": "gold_large",
+      "props": {
+        "area": 14014.0,
+        "avg_b": 53.117593244194225,
+        "avg_g": 152.02702322308232,
+        "avg_r": 194.3145672061928,
+        "aspect_ratio": 1.125984251968504,
+        "bbox": [
+          88,
+          471,
+          143,
+          127
+        ],
+        "level_index": 0,
+        "source_path": "calibration/screenshots\\step08_levels_1_20251202_031518.png"
+      }
+    },
+    {
+      "label": "rock",
+      "props": {
+        "area": 2611.0,
+        "avg_b": 108.13098330241186,
+        "avg_g": 113.65009276437847,
+        "avg_r": 128.27161410018553,
+        "aspect_ratio": 0.9830508474576272,
+        "bbox": [
+          991,
+          444,
+          58,
+          59
+        ],
+        "level_index": 0,
+        "source_path": "calibration/screenshots\\step08_levels_1_20251202_031518.png"
+      }
+    },
+    {
+      "label": "rock",
+      "props": {
+        "area": 2605.0,
+        "avg_b": 108.24321309036816,
+        "avg_g": 113.72852361472665,
+        "avg_r": 128.23503161026403,
+        "aspect_ratio": 1.0,
+        "bbox": [
+          340,
+          433,
+          59,
+          59
+        ],
+        "level_index": 0,
+        "source_path": "calibration/screenshots\\step08_levels_1_20251202_031518.png"
+      }
+    },
+    {
+      "label": "rock",
+      "props": {
+        "area": 2619.0,
+        "avg_b": 107.78838327783944,
+        "avg_g": 113.2867184609693,
+        "avg_r": 127.78616352201259,
+        "aspect_ratio": 1.0,
+        "bbox": [
+          804,
+          421,
+          59,
+          59
+        ],
+        "level_index": 0,
+        "source_path": "calibration/screenshots\\step08_levels_1_20251202_031518.png"
+      }
+    },
+    {
+      "label": "bag",
+      "props": {
+        "area": 2569.5,
+        "avg_b": 93.47683615819209,
+        "avg_g": 129.81167608286253,
+        "avg_r": 147.0015065913371,
+        "aspect_ratio": 0.9047619047619048,
+        "bbox": [
+          715,
+          414,
+          57,
+          63
+        ],
+        "level_index": 0,
+        "source_path": "calibration/screenshots\\step08_levels_1_20251202_031518.png"
+      }
+    },
+    {
+      "label": "gold_small",
+      "props": {
+        "area": 2042.5,
+        "avg_b": 54.85734529995277,
+        "avg_g": 156.81435994331602,
+        "avg_r": 198.0651865847898,
+        "aspect_ratio": 1.1458333333333333,
+        "bbox": [
+          887,
+          381,
+          55,
+          48
+        ],
+        "level_index": 0,
+        "source_path": "calibration/screenshots\\step08_levels_1_20251202_031518.png"
+      }
+    },
+    {
+      "label": "gold_small",
+      "props": {
+        "area": 2048.0,
+        "avg_b": 54.98634008478568,
+        "avg_g": 156.76731040979746,
+        "avg_r": 198.21808761187,
+        "aspect_ratio": 1.1666666666666667,
+        "bbox": [
+          241,
+          381,
+          56,
+          48
+        ],
+        "level_index": 0,
+        "source_path": "calibration/screenshots\\step08_levels_1_20251202_031518.png"
+      }
+    },
+    {
+      "label": "stone",
+      "props": {
+        "area": 2109.5,
+        "avg_b": 102.05352241537055,
+        "avg_g": 108.064043915828,
+        "avg_r": 123.76440988106131,
+        "aspect_ratio": 1.2340425531914894,
+        "bbox": [
+          652,
+          372,
+          58,
+          47
+        ],
+        "level_index": 0,
+        "source_path": "calibration/screenshots\\step08_levels_1_20251202_031518.png"
+      }
+    },
+    {
+      "label": "rock",
+      "props": {
+        "area": 2615.0,
+        "avg_b": 107.88625416821044,
+        "avg_g": 113.33567988143757,
+        "avg_r": 127.75546498703223,
+        "aspect_ratio": 1.0,
+        "bbox": [
+          976,
+          361,
+          59,
+          59
+        ],
+        "level_index": 0,
+        "source_path": "calibration/screenshots\\step08_levels_1_20251202_031518.png"
+      }
+    },
+    {
+      "label": "gold_nugget",
+      "props": {
+        "area": 531.5,
+        "avg_b": 77.84035087719299,
+        "avg_g": 158.67368421052632,
+        "avg_r": 194.3,
+        "aspect_ratio": 1.12,
+        "bbox": [
+          233,
+          322,
+          28,
+          25
+        ],
+        "level_index": 0,
+        "source_path": "calibration/screenshots\\step08_levels_1_20251202_031518.png"
+      }
+    },
+    {
+      "label": "gold_small",
+      "props": {
+        "area": 2037.0,
+        "avg_b": 55.583333333333336,
+        "avg_g": 158.0217803030303,
+        "avg_r": 200.01751893939394,
+        "aspect_ratio": 1.1702127659574468,
+        "bbox": [
+          1058,
+          317,
+          55,
+          47
+        ],
+        "level_index": 0,
+        "source_path": "calibration/screenshots\\step08_levels_1_20251202_031518.png"
+      }
+    },
+    {
+      "label": "stone",
+      "props": {
+        "area": 2126.0,
+        "avg_b": 101.89645776566758,
+        "avg_g": 108.17302452316076,
+        "avg_r": 124.41507720254315,
+        "aspect_ratio": 1.2083333333333333,
+        "bbox": [
+          542,
+          312,
+          58,
+          48
+        ],
+        "level_index": 0,
+        "source_path": "calibration/screenshots\\step08_levels_1_20251202_031518.png"
+      }
+    },
+    {
+      "label": "gold_nugget",
+      "props": {
+        "area": 539.0,
+        "avg_b": 77.10034602076125,
+        "avg_g": 156.56228373702422,
+        "avg_r": 192.01038062283737,
+        "aspect_ratio": 1.16,
+        "bbox": [
+          832,
+          306,
+          29,
+          25
+        ],
+        "level_index": 0,
+        "source_path": "calibration/screenshots\\step08_levels_1_20251202_031518.png"
+      }
+    },
+    {
+      "label": "gold_nugget",
+      "props": {
+        "area": 535.0,
+        "avg_b": 78.3891797556719,
+        "avg_g": 159.22338568935427,
+        "avg_r": 195.25479930191972,
+        "aspect_ratio": 1.16,
+        "bbox": [
+          320,
+          262,
+          29,
+          25
+        ],
+        "level_index": 0,
+        "source_path": "calibration/screenshots\\step08_levels_1_20251202_031518.png"
+      }
+    },
+    {
+      "label": "gold_nugget",
+      "props": {
+        "area": 533.0,
+        "avg_b": 77.41783216783217,
+        "avg_g": 157.6958041958042,
+        "avg_r": 193.0472027972028,
+        "aspect_ratio": 1.12,
+        "bbox": [
+          232,
+          252,
+          28,
+          25
+        ],
+        "level_index": 0,
+        "source_path": "calibration/screenshots\\step08_levels_1_20251202_031518.png"
+      }
+    },
+    {
+      "label": "rock",
+      "props": {
+        "area": 2625.0,
+        "avg_b": 107.69361387966039,
+        "avg_g": 113.23661867847913,
+        "avg_r": 127.93835363602805,
+        "aspect_ratio": 1.0,
+        "bbox": [
+          193,
+          530,
+          59,
+          59
+        ],
+        "level_index": 1,
+        "source_path": "calibration/screenshots\\step08_levels_2_20251202_031620.png"
+      }
+    },
+    {
+      "label": "bag",
+      "props": {
+        "area": 2561.5,
+        "avg_b": 93.82961843596524,
+        "avg_g": 130.3131847374386,
+        "avg_r": 147.7159047978844,
+        "aspect_ratio": 0.9047619047619048,
+        "bbox": [
+          527,
+          506,
+          57,
+          63
+        ],
+        "level_index": 1,
+        "source_path": "calibration/screenshots\\step08_levels_2_20251202_031620.png"
+      }
+    },
+    {
+      "label": "gold_medium",
+      "props": {
+        "area": 9288.5,
+        "avg_b": 51.49481152054214,
+        "avg_g": 146.78706056755613,
+        "avg_r": 190.42842016094875,
+        "aspect_ratio": 1.188118811881188,
+        "bbox": [
+          659,
+          501,
+          120,
+          101
+        ],
+        "level_index": 1,
+        "source_path": "calibration/screenshots\\step08_levels_2_20251202_031620.png"
+      }
+    },
+    {
+      "label": "diamond",
+      "props": {
+        "area": 733.5,
+        "avg_b": 164.0822622107969,
+        "avg_g": 161.24421593830334,
+        "avg_r": 116.17095115681234,
+        "aspect_ratio": 0.96875,
+        "bbox": [
+          1004,
+          492,
+          31,
+          32
+        ],
+        "level_index": 1,
+        "source_path": "calibration/screenshots\\step08_levels_2_20251202_031620.png"
+      }
+    },
+    {
+      "label": "bag",
+      "props": {
+        "area": 2566.5,
+        "avg_b": 93.70437405731523,
+        "avg_g": 130.14027149321268,
+        "avg_r": 147.58257918552036,
+        "aspect_ratio": 0.9206349206349206,
+        "bbox": [
+          883,
+          469,
+          58,
+          63
+        ],
+        "level_index": 1,
+        "source_path": "calibration/screenshots\\step08_levels_2_20251202_031620.png"
+      }
+    },
+    {
+      "label": "gold_medium",
+      "props": {
+        "area": 9287.5,
+        "avg_b": 51.558403049878216,
+        "avg_g": 146.8765222916446,
+        "avg_r": 190.50142963041407,
+        "aspect_ratio": 1.188118811881188,
+        "bbox": [
+          311,
+          463,
+          120,
+          101
+        ],
+        "level_index": 1,
+        "source_path": "calibration/screenshots\\step08_levels_2_20251202_031620.png"
+      }
+    },
+    {
+      "label": "mole_left",
+      "props": {
+        "area": 844.5,
+        "avg_b": 34.3233995584989,
+        "avg_g": 60.43818984547461,
+        "avg_r": 98.19315673289184,
+        "aspect_ratio": 1.4193548387096775,
+        "bbox": [
+          478,
+          456,
+          44,
+          31
+        ],
+        "level_index": 1,
+        "source_path": "calibration/screenshots\\step08_levels_2_20251202_031620.png"
+      }
+    },
+    {
+      "label": "mole_right",
+      "props": {
+        "area": 832.0,
+        "avg_b": 34.02572706935123,
+        "avg_g": 60.18008948545861,
+        "avg_r": 97.61409395973155,
+        "aspect_ratio": 1.4193548387096775,
+        "bbox": [
+          900,
+          413,
+          44,
+          31
+        ],
+        "level_index": 1,
+        "source_path": "calibration/screenshots\\step08_levels_2_20251202_031620.png"
+      }
+    },
+    {
+      "label": "stone",
+      "props": {
+        "area": 2109.5,
+        "avg_b": 101.9725526075023,
+        "avg_g": 107.89524245196706,
+        "avg_r": 123.37511436413541,
+        "aspect_ratio": 1.2340425531914894,
+        "bbox": [
+          703,
+          398,
+          58,
+          47
+        ],
+        "level_index": 1,
+        "source_path": "calibration/screenshots\\step08_levels_2_20251202_031620.png"
+      }
+    },
+    {
+      "label": "bag",
+      "props": {
+        "area": 2559.5,
+        "avg_b": 93.56030245746692,
+        "avg_g": 129.92476370510397,
+        "avg_r": 146.9474480151229,
+        "aspect_ratio": 0.9047619047619048,
+        "bbox": [
+          285,
+          385,
+          57,
+          63
+        ],
+        "level_index": 1,
+        "source_path": "calibration/screenshots\\step08_levels_2_20251202_031620.png"
+      }
+    },
+    {
+      "label": "gold_nugget",
+      "props": {
+        "area": 536.5,
+        "avg_b": 77.29565217391304,
+        "avg_g": 156.97739130434783,
+        "avg_r": 192.3582608695652,
+        "aspect_ratio": 1.16,
+        "bbox": [
+          867,
+          350,
+          29,
+          25
+        ],
+        "level_index": 1,
+        "source_path": "calibration/screenshots\\step08_levels_2_20251202_031620.png"
+      }
+    },
+    {
+      "label": "mole_right",
+      "props": {
+        "area": 824.5,
+        "avg_b": 34.283295711060944,
+        "avg_g": 60.49661399548532,
+        "avg_r": 98.23814898419863,
+        "aspect_ratio": 1.4193548387096775,
+        "bbox": [
+          263,
+          344,
+          44,
+          31
+        ],
+        "level_index": 1,
+        "source_path": "calibration/screenshots\\step08_levels_2_20251202_031620.png"
+      }
+    },
+    {
+      "label": "gold_small",
+      "props": {
+        "area": 2041.0,
+        "avg_b": 55.53544423440454,
+        "avg_g": 157.82797731569,
+        "avg_r": 199.77930056710775,
+        "aspect_ratio": 1.1458333333333333,
+        "bbox": [
+          663,
+          323,
+          55,
+          48
+        ],
+        "level_index": 1,
+        "source_path": "calibration/screenshots\\step08_levels_2_20251202_031620.png"
+      }
+    },
+    {
+      "label": "bag",
+      "props": {
+        "area": 2561.5,
+        "avg_b": 93.85341896486588,
+        "avg_g": 130.38307517944844,
+        "avg_r": 147.83490744238762,
+        "aspect_ratio": 0.9206349206349206,
+        "bbox": [
+          944,
+          312,
+          58,
+          63
+        ],
+        "level_index": 1,
+        "source_path": "calibration/screenshots\\step08_levels_2_20251202_031620.png"
+      }
+    },
+    {
+      "label": "gold_nugget",
+      "props": {
+        "area": 530.0,
+        "avg_b": 78.63908450704226,
+        "avg_g": 160.04401408450704,
+        "avg_r": 196.03697183098592,
+        "aspect_ratio": 1.16,
+        "bbox": [
+          836,
+          284,
+          29,
+          25
+        ],
+        "level_index": 1,
+        "source_path": "calibration/screenshots\\step08_levels_2_20251202_031620.png"
+      }
+    },
+    {
+      "label": "rock",
+      "props": {
+        "area": 2634.0,
+        "avg_b": 107.98417954378219,
+        "avg_g": 113.97093451066961,
+        "avg_r": 129.09749816041207,
+        "aspect_ratio": 1.0,
+        "bbox": [
+          273,
+          276,
+          59,
+          59
+        ],
+        "level_index": 1,
+        "source_path": "calibration/screenshots\\step08_levels_2_20251202_031620.png"
+      }
+    },
+    {
+      "label": "rock",
+      "props": {
+        "area": 2631.0,
+        "avg_b": 107.97385861561119,
+        "avg_g": 113.89432989690721,
+        "avg_r": 128.96281296023565,
+        "aspect_ratio": 1.0,
+        "bbox": [
+          1036,
+          246,
+          59,
+          59
+        ],
+        "level_index": 1,
+        "source_path": "calibration/screenshots\\step08_levels_2_20251202_031620.png"
+      }
+    },
+    {
+      "label": "gold_nugget",
+      "props": {
+        "area": 536.0,
+        "avg_b": 77.21391304347826,
+        "avg_g": 157.01217391304348,
+        "avg_r": 192.38260869565218,
+        "aspect_ratio": 1.16,
+        "bbox": [
+          224,
+          243,
+          29,
+          25
+        ],
+        "level_index": 1,
+        "source_path": "calibration/screenshots\\step08_levels_2_20251202_031620.png"
+      }
+    },
+    {
+      "label": "gold_nugget",
+      "props": {
+        "area": 536.5,
+        "avg_b": 77.26782608695652,
+        "avg_g": 157.35478260869567,
+        "avg_r": 192.72347826086957,
+        "aspect_ratio": 1.12,
+        "bbox": [
+          778,
+          234,
+          28,
+          25
+        ],
+        "level_index": 1,
+        "source_path": "calibration/screenshots\\step08_levels_2_20251202_031620.png"
+      }
+    },
+    {
+      "label": "gold_medium",
+      "props": {
+        "area": 9294.5,
+        "avg_b": 51.324727542059044,
+        "avg_g": 146.45720029626494,
+        "avg_r": 189.94392127817164,
+        "aspect_ratio": 1.1764705882352942,
+        "bbox": [
+          443,
+          507,
+          120,
+          102
+        ],
+        "level_index": 2,
+        "source_path": "calibration/screenshots\\step08_levels_3_20251202_031724.png"
+      }
+    },
+    {
+      "label": "gold_large",
+      "props": {
+        "area": 14000.0,
+        "avg_b": 53.052690898844745,
+        "avg_g": 152.01908988447448,
+        "avg_r": 194.343617920541,
+        "aspect_ratio": 1.125984251968504,
+        "bbox": [
+          71,
+          488,
+          143,
+          127
+        ],
+        "level_index": 2,
+        "source_path": "calibration/screenshots\\step08_levels_3_20251202_031724.png"
+      }
+    },
+    {
+      "label": "gold_nugget",
+      "props": {
+        "area": 529.5,
+        "avg_b": 77.69894366197184,
+        "avg_g": 158.43133802816902,
+        "avg_r": 193.78697183098592,
+        "aspect_ratio": 1.12,
+        "bbox": [
+          410,
+          475,
+          28,
+          25
+        ],
+        "level_index": 2,
+        "source_path": "calibration/screenshots\\step08_levels_3_20251202_031724.png"
+      }
+    },
+    {
+      "label": "gold_medium",
+      "props": {
+        "area": 9287.0,
+        "avg_b": 51.495869519169666,
+        "avg_g": 146.7745181105698,
+        "avg_r": 190.3155051895785,
+        "aspect_ratio": 1.1764705882352942,
+        "bbox": [
+          695,
+          463,
+          120,
+          102
+        ],
+        "level_index": 2,
+        "source_path": "calibration/screenshots\\step08_levels_3_20251202_031724.png"
+      }
+    },
+    {
+      "label": "diamond",
+      "props": {
+        "area": 732.5,
+        "avg_b": 164.4954954954955,
+        "avg_g": 161.7889317889318,
+        "avg_r": 116.94465894465894,
+        "aspect_ratio": 0.9375,
+        "bbox": [
+          652,
+          460,
+          30,
+          32
+        ],
+        "level_index": 2,
+        "source_path": "calibration/screenshots\\step08_levels_3_20251202_031724.png"
+      }
+    },
+    {
+      "label": "gold_large",
+      "props": {
+        "area": 14000.0,
+        "avg_b": 53.10143702451394,
+        "avg_g": 152.05353620738236,
+        "avg_r": 194.3152296421527,
+        "aspect_ratio": 1.125984251968504,
+        "bbox": [
+          927,
+          449,
+          143,
+          127
+        ],
+        "level_index": 2,
+        "source_path": "calibration/screenshots\\step08_levels_3_20251202_031724.png"
+      }
+    },
+    {
+      "label": "mole_right",
+      "props": {
+        "area": 855.5,
+        "avg_b": 34.05114254624592,
+        "avg_g": 60.171926006528835,
+        "avg_r": 97.70511425462459,
+        "aspect_ratio": 1.375,
+        "bbox": [
+          357,
+          433,
+          44,
+          32
+        ],
+        "level_index": 2,
+        "source_path": "calibration/screenshots\\step08_levels_3_20251202_031724.png"
+      }
+    },
+    {
+      "label": "mole_right",
+      "props": {
+        "area": 860.5,
+        "avg_b": 33.91017316017316,
+        "avg_g": 59.89935064935065,
+        "avg_r": 97.28679653679653,
+        "aspect_ratio": 1.375,
+        "bbox": [
+          703,
+          415,
+          44,
+          32
+        ],
+        "level_index": 2,
+        "source_path": "calibration/screenshots\\step08_levels_3_20251202_031724.png"
+      }
+    },
+    {
+      "label": "gold_nugget",
+      "props": {
+        "area": 539.5,
+        "avg_b": 76.3044982698962,
+        "avg_g": 155.41176470588235,
+        "avg_r": 189.82179930795849,
+        "aspect_ratio": 1.16,
+        "bbox": [
+          578,
+          412,
+          29,
+          25
+        ],
+        "level_index": 2,
+        "source_path": "calibration/screenshots\\step08_levels_3_20251202_031724.png"
+      }
+    },
+    {
+      "label": "diamond",
+      "props": {
+        "area": 734.5,
+        "avg_b": 163.33504492939664,
+        "avg_g": 160.24133504492937,
+        "avg_r": 114.25417201540435,
+        "aspect_ratio": 0.96875,
+        "bbox": [
+          1083,
+          400,
+          31,
+          32
+        ],
+        "level_index": 2,
+        "source_path": "calibration/screenshots\\step08_levels_3_20251202_031724.png"
+      }
+    },
+    {
+      "label": "diamond",
+      "props": {
+        "area": 733.5,
+        "avg_b": 163.82262210796915,
+        "avg_g": 160.8611825192802,
+        "avg_r": 115.30334190231362,
+        "aspect_ratio": 0.9090909090909091,
+        "bbox": [
+          239,
+          390,
+          30,
+          33
+        ],
+        "level_index": 2,
+        "source_path": "calibration/screenshots\\step08_levels_3_20251202_031724.png"
+      }
+    },
+    {
+      "label": "gold_nugget",
+      "props": {
+        "area": 535.5,
+        "avg_b": 77.14634146341463,
+        "avg_g": 157.08536585365854,
+        "avg_r": 192.2560975609756,
+        "aspect_ratio": 1.12,
+        "bbox": [
+          784,
+          378,
+          28,
+          25
+        ],
+        "level_index": 2,
+        "source_path": "calibration/screenshots\\step08_levels_3_20251202_031724.png"
+      }
+    },
+    {
+      "label": "rock",
+      "props": {
+        "area": 2606.0,
+        "avg_b": 108.16059479553903,
+        "avg_g": 113.59851301115242,
+        "avg_r": 127.98029739776952,
+        "aspect_ratio": 1.0,
+        "bbox": [
+          366,
+          359,
+          59,
+          59
+        ],
+        "level_index": 2,
+        "source_path": "calibration/screenshots\\step08_levels_3_20251202_031724.png"
+      }
+    },
+    {
+      "label": "gold_small",
+      "props": {
+        "area": 2043.5,
+        "avg_b": 55.316336166194525,
+        "avg_g": 157.29084041548631,
+        "avg_r": 199.08781869688386,
+        "aspect_ratio": 1.1914893617021276,
+        "bbox": [
+          496,
+          339,
+          56,
+          47
+        ],
+        "level_index": 2,
+        "source_path": "calibration/screenshots\\step08_levels_3_20251202_031724.png"
+      }
+    },
+    {
+      "label": "gold_small",
+      "props": {
+        "area": 2043.5,
+        "avg_b": 55.33380547686497,
+        "avg_g": 157.34985835694053,
+        "avg_r": 199.1388101983003,
+        "aspect_ratio": 1.1666666666666667,
+        "bbox": [
+          168,
+          332,
+          56,
+          48
+        ],
+        "level_index": 2,
+        "source_path": "calibration/screenshots\\step08_levels_3_20251202_031724.png"
+      }
+    },
+    {
+      "label": "stone",
+      "props": {
+        "area": 2131.5,
+        "avg_b": 101.61186594202898,
+        "avg_g": 107.7975543478261,
+        "avg_r": 124.01177536231884,
+        "aspect_ratio": 1.2083333333333333,
+        "bbox": [
+          695,
+          328,
+          58,
+          48
+        ],
+        "level_index": 2,
+        "source_path": "calibration/screenshots\\step08_levels_3_20251202_031724.png"
+      }
+    },
+    {
+      "label": "rock",
+      "props": {
+        "area": 2631.0,
+        "avg_b": 107.61546961325966,
+        "avg_g": 113.24604051565377,
+        "avg_r": 128.13591160220994,
+        "aspect_ratio": 1.0,
+        "bbox": [
+          897,
+          320,
+          59,
+          59
+        ],
+        "level_index": 2,
+        "source_path": "calibration/screenshots\\step08_levels_3_20251202_031724.png"
+      }
+    },
+    {
+      "label": "mole_left",
+      "props": {
+        "area": 868.0,
+        "avg_b": 34.569280343716436,
+        "avg_g": 60.993555316863585,
+        "avg_r": 99.00214822771214,
+        "aspect_ratio": 1.375,
+        "bbox": [
+          483,
+          290,
+          44,
+          32
+        ],
+        "level_index": 2,
+        "source_path": "calibration/screenshots\\step08_levels_3_20251202_031724.png"
+      }
+    },
+    {
+      "label": "gold_small",
+      "props": {
+        "area": 2037.0,
+        "avg_b": 55.80113636363637,
+        "avg_g": 158.34043560606062,
+        "avg_r": 200.45549242424244,
+        "aspect_ratio": 1.1914893617021276,
+        "bbox": [
+          976,
+          265,
+          56,
+          47
+        ],
+        "level_index": 2,
+        "source_path": "calibration/screenshots\\step08_levels_3_20251202_031724.png"
+      }
+    },
+    {
+      "label": "bag",
+      "props": {
+        "area": 2565.5,
+        "avg_b": 94.10486608826858,
+        "avg_g": 130.91550358355337,
+        "avg_r": 148.59977367031308,
+        "aspect_ratio": 0.9047619047619048,
+        "bbox": [
+          821,
+          256,
+          57,
+          63
+        ],
+        "level_index": 2,
+        "source_path": "calibration/screenshots\\step08_levels_3_20251202_031724.png"
+      }
+    },
+    {
+      "label": "rock",
+      "props": {
+        "area": 2637.0,
+        "avg_b": 107.95075339948549,
+        "avg_g": 113.98493201029034,
+        "avg_r": 129.14406468210217,
+        "aspect_ratio": 1.0169491525423728,
+        "bbox": [
+          273,
+          249,
+          60,
+          59
+        ],
+        "level_index": 2,
+        "source_path": "calibration/screenshots\\step08_levels_3_20251202_031724.png"
+      }
+    },
+    {
+      "label": "gold_small",
+      "props": {
+        "area": 2045.0,
+        "avg_b": 55.218867924528304,
+        "avg_g": 157.10943396226415,
+        "avg_r": 198.88867924528302,
+        "aspect_ratio": 1.1666666666666667,
+        "bbox": [
+          779,
+          553,
+          56,
+          48
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "gold_small",
+      "props": {
+        "area": 2035.5,
+        "avg_b": 55.338388625592415,
+        "avg_g": 157.63744075829385,
+        "avg_r": 199.4748815165877,
+        "aspect_ratio": 1.1702127659574468,
+        "bbox": [
+          265,
+          536,
+          55,
+          47
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "gold_nugget",
+      "props": {
+        "area": 532.5,
+        "avg_b": 77.5569176882662,
+        "avg_g": 157.70577933450087,
+        "avg_r": 193.05253940455341,
+        "aspect_ratio": 1.16,
+        "bbox": [
+          901,
+          521,
+          29,
+          25
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "gold_large",
+      "props": {
+        "area": 13997.0,
+        "avg_b": 53.077150708095544,
+        "avg_g": 152.07806665257522,
+        "avg_r": 194.40491791728317,
+        "aspect_ratio": 1.125984251968504,
+        "bbox": [
+          506,
+          493,
+          143,
+          127
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "gold_nugget",
+      "props": {
+        "area": 532.5,
+        "avg_b": 77.53590192644484,
+        "avg_g": 157.71628721541157,
+        "avg_r": 193.0893169877408,
+        "aspect_ratio": 1.16,
+        "bbox": [
+          342,
+          488,
+          29,
+          25
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "rock",
+      "props": {
+        "area": 2620.0,
+        "avg_b": 107.95488165680473,
+        "avg_g": 113.54326923076923,
+        "avg_r": 128.3332100591716,
+        "aspect_ratio": 1.0,
+        "bbox": [
+          684,
+          487,
+          59,
+          59
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "gold_nugget",
+      "props": {
+        "area": 536.5,
+        "avg_b": 77.14260869565217,
+        "avg_g": 157.17391304347828,
+        "avg_r": 192.52,
+        "aspect_ratio": 1.0769230769230769,
+        "bbox": [
+          1041,
+          481,
+          28,
+          26
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "gold_small",
+      "props": {
+        "area": 2042.5,
+        "avg_b": 55.31270666036845,
+        "avg_g": 157.30089749645725,
+        "avg_r": 199.1067548417572,
+        "aspect_ratio": 1.1914893617021276,
+        "bbox": [
+          127,
+          463,
+          56,
+          47
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "mole_diamond_left",
+      "props": {
+        "area": 997.5,
+        "avg_b": 77.45994344957587,
+        "avg_g": 94.79924599434496,
+        "avg_r": 95.83977379830348,
+        "aspect_ratio": 1.3235294117647058,
+        "bbox": [
+          673,
+          450,
+          45,
+          34
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "bag",
+      "props": {
+        "area": 2561.5,
+        "avg_b": 93.68228182848507,
+        "avg_g": 130.1258027956177,
+        "avg_r": 147.42123158292407,
+        "aspect_ratio": 0.9206349206349206,
+        "bbox": [
+          943,
+          444,
+          58,
+          63
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "gold_nugget",
+      "props": {
+        "area": 540.5,
+        "avg_b": 76.54749568221071,
+        "avg_g": 155.6649395509499,
+        "avg_r": 190.53886010362694,
+        "aspect_ratio": 1.1153846153846154,
+        "bbox": [
+          873,
+          434,
+          29,
+          26
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "gold_nugget",
+      "props": {
+        "area": 536.5,
+        "avg_b": 76.49739130434783,
+        "avg_g": 156.20869565217393,
+        "avg_r": 190.55478260869566,
+        "aspect_ratio": 1.12,
+        "bbox": [
+          410,
+          413,
+          28,
+          25
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "gold_nugget",
+      "props": {
+        "area": 537.5,
+        "avg_b": 76.45833333333333,
+        "avg_g": 156.04340277777777,
+        "avg_r": 190.3784722222222,
+        "aspect_ratio": 1.12,
+        "bbox": [
+          666,
+          406,
+          28,
+          25
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "gold_nugget",
+      "props": {
+        "area": 539.5,
+        "avg_b": 76.25432525951557,
+        "avg_g": 155.6332179930796,
+        "avg_r": 189.9948096885813,
+        "aspect_ratio": 1.12,
+        "bbox": [
+          930,
+          399,
+          28,
+          25
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "stone",
+      "props": {
+        "area": 2111.0,
+        "avg_b": 101.97713763145862,
+        "avg_g": 107.92363968907179,
+        "avg_r": 123.46822130772748,
+        "aspect_ratio": 1.2340425531914894,
+        "bbox": [
+          299,
+          391,
+          58,
+          47
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "rock",
+      "props": {
+        "area": 2618.0,
+        "avg_b": 107.83456698741672,
+        "avg_g": 113.32050333086602,
+        "avg_r": 127.82716506291635,
+        "aspect_ratio": 1.0,
+        "bbox": [
+          582,
+          354,
+          59,
+          59
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "mole_diamond_right",
+      "props": {
+        "area": 969.5,
+        "avg_b": 78.82978723404256,
+        "avg_g": 95.95067698259187,
+        "avg_r": 96.0909090909091,
+        "aspect_ratio": 1.3235294117647058,
+        "bbox": [
+          186,
+          346,
+          45,
+          34
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "mole_diamond_left",
+      "props": {
+        "area": 991.5,
+        "avg_b": 78.22938388625593,
+        "avg_g": 95.56398104265404,
+        "avg_r": 96.27677725118484,
+        "aspect_ratio": 1.2571428571428571,
+        "bbox": [
+          854,
+          336,
+          44,
+          35
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "mole_diamond_right",
+      "props": {
+        "area": 982.0,
+        "avg_b": 78.71919770773638,
+        "avg_g": 96.11843361986628,
+        "avg_r": 96.86723973256925,
+        "aspect_ratio": 1.2571428571428571,
+        "bbox": [
+          546,
+          276,
+          44,
+          35
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "stone",
+      "props": {
+        "area": 2133.0,
+        "avg_b": 102.18190045248869,
+        "avg_g": 108.87013574660634,
+        "avg_r": 125.3923076923077,
+        "aspect_ratio": 1.2340425531914894,
+        "bbox": [
+          399,
+          270,
+          58,
+          47
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "stone",
+      "props": {
+        "area": 2131.5,
+        "avg_b": 101.99909420289855,
+        "avg_g": 108.5090579710145,
+        "avg_r": 124.90851449275362,
+        "aspect_ratio": 1.2083333333333333,
+        "bbox": [
+          968,
+          250,
+          58,
+          48
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "rock",
+      "props": {
+        "area": 2629.0,
+        "avg_b": 107.98525617397715,
+        "avg_g": 113.8381865093992,
+        "avg_r": 128.86214522668632,
+        "aspect_ratio": 1.0,
+        "bbox": [
+          181,
+          236,
+          59,
+          59
+        ],
+        "level_index": 3,
+        "source_path": "calibration/screenshots\\step08_levels_4_20251202_031827.png"
+      }
+    },
+    {
+      "label": "mole_right",
+      "props": {
+        "area": 824.0,
+        "avg_b": 34.27149321266969,
+        "avg_g": 60.52149321266969,
+        "avg_r": 98.2714932126697,
+        "aspect_ratio": 1.4666666666666666,
+        "bbox": [
+          607,
+          568,
+          44,
+          30
+        ],
+        "level_index": 4,
+        "source_path": "calibration/screenshots\\step08_levels_5_20251202_031859.png"
+      }
+    },
+    {
+      "label": "gold_large",
+      "props": {
+        "area": 13999.0,
+        "avg_b": 52.95582951743572,
+        "avg_g": 151.87558999647763,
+        "avg_r": 194.18555829517436,
+        "aspect_ratio": 1.125984251968504,
+        "bbox": [
+          454,
+          495,
+          143,
+          127
+        ],
+        "level_index": 4,
+        "source_path": "calibration/screenshots\\step08_levels_5_20251202_031859.png"
+      }
+    },
+    {
+      "label": "gold_large",
+      "props": {
+        "area": 13985.5,
+        "avg_b": 53.05683661236866,
+        "avg_g": 152.07305549679148,
+        "avg_r": 194.35272547775193,
+        "aspect_ratio": 1.1338582677165354,
+        "bbox": [
+          100,
+          482,
+          144,
+          127
+        ],
+        "level_index": 4,
+        "source_path": "calibration/screenshots\\step08_levels_5_20251202_031859.png"
+      }
+    },
+    {
+      "label": "gold_large",
+      "props": {
+        "area": 14004.0,
+        "avg_b": 53.12204225352113,
+        "avg_g": 152.0917605633803,
+        "avg_r": 194.36901408450706,
+        "aspect_ratio": 1.125984251968504,
+        "bbox": [
+          964,
+          450,
+          143,
+          127
+        ],
+        "level_index": 4,
+        "source_path": "calibration/screenshots\\step08_levels_5_20251202_031859.png"
+      }
+    },
+    {
+      "label": "bag",
+      "props": {
+        "area": 2557.0,
+        "avg_b": 93.78357926598562,
+        "avg_g": 130.23155505107832,
+        "avg_r": 147.49110858872496,
+        "aspect_ratio": 0.9206349206349206,
+        "bbox": [
+          826,
+          439,
+          58,
+          63
+        ],
+        "level_index": 4,
+        "source_path": "calibration/screenshots\\step08_levels_5_20251202_031859.png"
+      }
+    },
+    {
+      "label": "mole_left",
+      "props": {
+        "area": 834.0,
+        "avg_b": 33.96316964285714,
+        "avg_g": 60.05022321428571,
+        "avg_r": 97.37611607142857,
+        "aspect_ratio": 1.4193548387096775,
+        "bbox": [
+          1052,
+          403,
+          44,
+          31
+        ],
+        "level_index": 4,
+        "source_path": "calibration/screenshots\\step08_levels_5_20251202_031859.png"
+      }
+    },
+    {
+      "label": "gold_medium",
+      "props": {
+        "area": 9300.0,
+        "avg_b": 51.21214043993232,
+        "avg_g": 146.262796108291,
+        "avg_r": 189.51744923857868,
+        "aspect_ratio": 1.1764705882352942,
+        "bbox": [
+          412,
+          375,
+          120,
+          102
+        ],
+        "level_index": 4,
+        "source_path": "calibration/screenshots\\step08_levels_5_20251202_031859.png"
+      }
+    },
+    {
+      "label": "bone",
+      "props": {
+        "area": 787.0,
+        "avg_b": 83.38724911452184,
+        "avg_g": 95.55371900826445,
+        "avg_r": 117.08972845336481,
+        "aspect_ratio": 1.53125,
+        "bbox": [
+          168,
+          373,
+          49,
+          32
+        ],
+        "level_index": 4,
+        "source_path": "calibration/screenshots\\step08_levels_5_20251202_031859.png"
+      }
+    },
+    {
+      "label": "skull",
+      "props": {
+        "area": 1560.0,
+        "avg_b": 85.31860036832411,
+        "avg_g": 97.30816451810927,
+        "avg_r": 119.17004297114794,
+        "aspect_ratio": 1.1666666666666667,
+        "bbox": [
+          718,
+          371,
+          49,
+          42
+        ],
+        "level_index": 4,
+        "source_path": "calibration/screenshots\\step08_levels_5_20251202_031859.png"
+      }
+    },
+    {
+      "label": "tnt",
+      "props": {
+        "area": 4765.5,
+        "avg_b": 53.40855155482815,
+        "avg_g": 69.51759410801964,
+        "avg_r": 101.7062193126023,
+        "aspect_ratio": 0.6938775510204082,
+        "bbox": [
+          271,
+          367,
+          68,
+          98
+        ],
+        "level_index": 4,
+        "source_path": "calibration/screenshots\\step08_levels_5_20251202_031859.png"
+      }
+    },
+    {
+      "label": "mole_left",
+      "props": {
+        "area": 839.0,
+        "avg_b": 34.35444444444445,
+        "avg_g": 60.60111111111111,
+        "avg_r": 98.41222222222223,
+        "aspect_ratio": 1.4193548387096775,
+        "bbox": [
+          225,
+          336,
+          44,
+          31
+        ],
+        "level_index": 4,
+        "source_path": "calibration/screenshots\\step08_levels_5_20251202_031859.png"
+      }
+    },
+    {
+      "label": "bone",
+      "props": {
+        "area": 790.5,
+        "avg_b": 83.36192714453584,
+        "avg_g": 95.5945945945946,
+        "avg_r": 117.35957696827262,
+        "aspect_ratio": 1.53125,
+        "bbox": [
+          755,
+          335,
+          49,
+          32
+        ],
+        "level_index": 4,
+        "source_path": "calibration/screenshots\\step08_levels_5_20251202_031859.png"
+      }
+    },
+    {
+      "label": "gold_nugget",
+      "props": {
+        "area": 535.5,
+        "avg_b": 77.23519163763066,
+        "avg_g": 157.3815331010453,
+        "avg_r": 192.68815331010452,
+        "aspect_ratio": 1.12,
+        "bbox": [
+          574,
+          327,
+          28,
+          25
+        ],
+        "level_index": 4,
+        "source_path": "calibration/screenshots\\step08_levels_5_20251202_031859.png"
+      }
+    },
+    {
+      "label": "gold_medium",
+      "props": {
+        "area": 9299.0,
+        "avg_b": 51.7872025383395,
+        "avg_g": 147.1918561607615,
+        "avg_r": 191.03236382866208,
+        "aspect_ratio": 1.1764705882352942,
+        "bbox": [
+          1030,
+          302,
+          120,
+          102
+        ],
+        "level_index": 4,
+        "source_path": "calibration/screenshots\\step08_levels_5_20251202_031859.png"
+      }
+    },
+    {
+      "label": "tnt",
+      "props": {
+        "area": 4771.0,
+        "avg_b": 53.446873722926036,
+        "avg_g": 69.64017163874132,
+        "avg_r": 101.91990192071925,
+        "aspect_ratio": 0.6938775510204082,
+        "bbox": [
+          909,
+          300,
+          68,
+          98
+        ],
+        "level_index": 4,
+        "source_path": "calibration/screenshots\\step08_levels_5_20251202_031859.png"
+      }
+    },
+    {
+      "label": "skull",
+      "props": {
+        "area": 1570.5,
+        "avg_b": 85.81059683313032,
+        "avg_g": 98.37697929354445,
+        "avg_r": 120.79476248477467,
+        "aspect_ratio": 1.1395348837209303,
+        "bbox": [
+          343,
+          286,
+          49,
+          43
+        ],
+        "level_index": 4,
+        "source_path": "calibration/screenshots\\step08_levels_5_20251202_031859.png"
+      }
+    },
+    {
+      "label": "mole_left",
+      "props": {
+        "area": 875.5,
+        "avg_b": 34.650692225772104,
+        "avg_g": 61.12779552715656,
+        "avg_r": 99.1618743343983,
+        "aspect_ratio": 1.40625,
+        "bbox": [
+          898,
+          267,
+          45,
+          32
+        ],
+        "level_index": 4,
+        "source_path": "calibration/screenshots\\step08_levels_5_20251202_031859.png"
+      }
+    },
+    {
+      "label": "gold_nugget",
+      "props": {
+        "area": 534.5,
+        "avg_b": 77.70855148342059,
+        "avg_g": 158.0890052356021,
+        "avg_r": 193.71204188481676,
+        "aspect_ratio": 1.16,
+        "bbox": [
+          226,
+          262,
+          29,
+          25
+        ],
+        "level_index": 4,
+        "source_path": "calibration/screenshots\\step08_levels_5_20251202_031859.png"
+      }
+    },
+    {
+      "label": "mole_right",
+      "props": {
+        "area": 832.5,
+        "avg_b": 34.32662192393736,
+        "avg_g": 60.44183445190156,
+        "avg_r": 98.17225950782998,
+        "aspect_ratio": 1.4193548387096775,
+        "bbox": [
+          583,
+          233,
+          44,
+          31
+        ],
+        "level_index": 4,
+        "source_path": "calibration/screenshots\\step08_levels_5_20251202_031859.png"
+      }
+    },
+    {
+      "label": "diamond",
+      "props": {
+        "area": 730.0,
+        "avg_b": 164.33032258064517,
+        "avg_g": 161.4683870967742,
+        "avg_r": 116.16,
+        "aspect_ratio": 0.9375,
+        "bbox": [
+          695,
+          572,
+          30,
+          32
+        ],
+        "level_index": 5,
+        "source_path": "calibration/screenshots\\step08_levels_6_20251202_031945.png"
+      }
+    },
+    {
+      "label": "diamond",
+      "props": {
+        "area": 731.5,
+        "avg_b": 164.1778350515464,
+        "avg_g": 161.34536082474227,
+        "avg_r": 116.28092783505154,
+        "aspect_ratio": 0.9375,
+        "bbox": [
+          600,
+          569,
+          30,
+          32
+        ],
+        "level_index": 5,
+        "source_path": "calibration/screenshots\\step08_levels_6_20251202_031945.png"
+      }
+    },
+    {
+      "label": "diamond",
+      "props": {
+        "area": 736.5,
+        "avg_b": 163.78617157490396,
+        "avg_g": 161.1664532650448,
+        "avg_r": 116.6235595390525,
+        "aspect_ratio": 0.96875,
+        "bbox": [
+          478,
+          565,
+          31,
+          32
+        ],
+        "level_index": 5,
+        "source_path": "calibration/screenshots\\step08_levels_6_20251202_031945.png"
+      }
+    },
+    {
+      "label": "mole_diamond_right",
+      "props": {
+        "area": 996.5,
+        "avg_b": 77.69180018850142,
+        "avg_g": 94.91705937794534,
+        "avg_r": 95.76154571159283,
+        "aspect_ratio": 1.2857142857142858,
+        "bbox": [
+          783,
+          520,
+          45,
+          35
+        ],
+        "level_index": 5,
+        "source_path": "calibration/screenshots\\step08_levels_6_20251202_031945.png"
+      }
+    },
+    {
+      "label": "tnt",
+      "props": {
+        "area": 4766.0,
+        "avg_b": 53.43003273322422,
+        "avg_g": 69.57794599018004,
+        "avg_r": 101.88134206219313,
+        "aspect_ratio": 0.6938775510204082,
+        "bbox": [
+          871,
+          502,
+          68,
+          98
+        ],
+        "level_index": 5,
+        "source_path": "calibration/screenshots\\step08_levels_6_20251202_031945.png"
+      }
+    },
+    {
+      "label": "tnt",
+      "props": {
+        "area": 4767.0,
+        "avg_b": 53.432106339468305,
+        "avg_g": 69.57852760736196,
+        "avg_r": 101.90654396728017,
+        "aspect_ratio": 0.7010309278350515,
+        "bbox": [
+          311,
+          491,
+          68,
+          97
+        ],
+        "level_index": 5,
+        "source_path": "calibration/screenshots\\step08_levels_6_20251202_031945.png"
+      }
+    },
+    {
+      "label": "diamond",
+      "props": {
+        "area": 738.0,
+        "avg_b": 163.57598978288635,
+        "avg_g": 161.04086845466156,
+        "avg_r": 116.74840357598978,
+        "aspect_ratio": 0.96875,
+        "bbox": [
+          948,
+          487,
+          31,
+          32
+        ],
+        "level_index": 5,
+        "source_path": "calibration/screenshots\\step08_levels_6_20251202_031945.png"
+      }
+    },
+    {
+      "label": "diamond",
+      "props": {
+        "area": 734.0,
+        "avg_b": 164.1617458279846,
+        "avg_g": 161.50320924261874,
+        "avg_r": 116.79332477535301,
+        "aspect_ratio": 0.9090909090909091,
+        "bbox": [
+          271,
+          455,
+          30,
+          33
+        ],
+        "level_index": 5,
+        "source_path": "calibration/screenshots\\step08_levels_6_20251202_031945.png"
+      }
+    },
+    {
+      "label": "bag",
+      "props": {
+        "area": 2560.5,
+        "avg_b": 93.7792894935752,
+        "avg_g": 130.22448979591837,
+        "avg_r": 147.505291005291,
+        "aspect_ratio": 0.9206349206349206,
+        "bbox": [
+          128,
+          443,
+          58,
+          63
+        ],
+        "level_index": 5,
+        "source_path": "calibration/screenshots\\step08_levels_6_20251202_031945.png"
+      }
+    },
+    {
+      "label": "bag",
+      "props": {
+        "area": 2558.5,
+        "avg_b": 93.60529300567109,
+        "avg_g": 129.97126654064272,
+        "avg_r": 147.00982986767485,
+        "aspect_ratio": 0.9206349206349206,
+        "bbox": [
+          1043,
+          413,
+          58,
+          63
+        ],
+        "level_index": 5,
+        "source_path": "calibration/screenshots\\step08_levels_6_20251202_031945.png"
+      }
+    },
+    {
+      "label": "tnt",
+      "props": {
+        "area": 4761.5,
+        "avg_b": 53.4446264073695,
+        "avg_g": 69.57236438075742,
+        "avg_r": 101.76601842374616,
+        "aspect_ratio": 0.6938775510204082,
+        "bbox": [
+          735,
+          399,
+          68,
+          98
+        ],
+        "level_index": 5,
+        "source_path": "calibration/screenshots\\step08_levels_6_20251202_031945.png"
+      }
+    },
+    {
+      "label": "diamond",
+      "props": {
+        "area": 739.0,
+        "avg_b": 163.37244897959184,
+        "avg_g": 160.80357142857142,
+        "avg_r": 116.5829081632653,
+        "aspect_ratio": 0.96875,
+        "bbox": [
+          808,
+          364,
+          31,
+          32
+        ],
+        "level_index": 5,
+        "source_path": "calibration/screenshots\\step08_levels_6_20251202_031945.png"
+      }
+    },
+    {
+      "label": "mole_diamond_right",
+      "props": {
+        "area": 977.0,
+        "avg_b": 78.63400576368876,
+        "avg_g": 95.7579250720461,
+        "avg_r": 95.93563880883765,
+        "aspect_ratio": 1.2941176470588236,
+        "bbox": [
+          841,
+          305,
+          44,
+          34
+        ],
+        "level_index": 5,
+        "source_path": "calibration/screenshots\\step08_levels_6_20251202_031945.png"
+      }
+    },
+    {
+      "label": "diamond",
+      "props": {
+        "area": 737.0,
+        "avg_b": 164.54603580562662,
+        "avg_g": 162.81074168797954,
+        "avg_r": 119.01790281329924,
+        "aspect_ratio": 0.96875,
+        "bbox": [
+          531,
+          291,
+          31,
+          32
+        ],
+        "level_index": 5,
+        "source_path": "calibration/screenshots\\step08_levels_6_20251202_031945.png"
+      }
+    },
+    {
+      "label": "diamond",
+      "props": {
+        "area": 735.0,
+        "avg_b": 163.99487179487178,
+        "avg_g": 161.38076923076923,
+        "avg_r": 116.7897435897436,
+        "aspect_ratio": 0.96875,
+        "bbox": [
+          629,
+          247,
+          31,
+          32
+        ],
+        "level_index": 5,
+        "source_path": "calibration/screenshots\\step08_levels_6_20251202_031945.png"
+      }
+    },
+    {
+      "label": "diamond",
+      "props": {
+        "area": 731.5,
+        "avg_b": 164.12757731958763,
+        "avg_g": 161.1958762886598,
+        "avg_r": 116.04381443298969,
+        "aspect_ratio": 0.9393939393939394,
+        "bbox": [
+          254,
+          586,
+          31,
+          33
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "tnt",
+      "props": {
+        "area": 4755.5,
+        "avg_b": 53.39257892578925,
+        "avg_g": 69.51722017220172,
+        "avg_r": 101.80422304223042,
+        "aspect_ratio": 0.7010309278350515,
+        "bbox": [
+          941,
+          517,
+          68,
+          97
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "tnt",
+      "props": {
+        "area": 4753.5,
+        "avg_b": 53.45365053322396,
+        "avg_g": 69.59146841673503,
+        "avg_r": 101.87899917965547,
+        "aspect_ratio": 0.7010309278350515,
+        "bbox": [
+          684,
+          516,
+          68,
+          97
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "tnt",
+      "props": {
+        "area": 4758.5,
+        "avg_b": 53.400327801679985,
+        "avg_g": 69.53677525097316,
+        "avg_r": 101.8119237861094,
+        "aspect_ratio": 0.7010309278350515,
+        "bbox": [
+          443,
+          516,
+          68,
+          97
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "diamond",
+      "props": {
+        "area": 733.0,
+        "avg_b": 164.3033419023136,
+        "avg_g": 161.62210796915167,
+        "avg_r": 116.80077120822621,
+        "aspect_ratio": 0.9090909090909091,
+        "bbox": [
+          1080,
+          501,
+          30,
+          33
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "bone",
+      "props": {
+        "area": 782.5,
+        "avg_b": 83.55516014234875,
+        "avg_g": 95.69632265717675,
+        "avg_r": 117.17200474495849,
+        "aspect_ratio": 1.53125,
+        "bbox": [
+          1000,
+          497,
+          49,
+          32
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "bag",
+      "props": {
+        "area": 2562.0,
+        "avg_b": 93.76246223564955,
+        "avg_g": 130.2035498489426,
+        "avg_r": 147.58761329305136,
+        "aspect_ratio": 0.9206349206349206,
+        "bbox": [
+          508,
+          472,
+          58,
+          63
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "tnt",
+      "props": {
+        "area": 4772.5,
+        "avg_b": 53.52482124616956,
+        "avg_g": 69.67660878447396,
+        "avg_r": 101.932379979571,
+        "aspect_ratio": 0.6938775510204082,
+        "bbox": [
+          182,
+          467,
+          68,
+          98
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "skull",
+      "props": {
+        "area": 1576.0,
+        "avg_b": 84.7483282674772,
+        "avg_g": 96.75136778115503,
+        "avg_r": 118.66565349544074,
+        "aspect_ratio": 1.1627906976744187,
+        "bbox": [
+          610,
+          442,
+          50,
+          43
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "diamond",
+      "props": {
+        "area": 741.0,
+        "avg_b": 162.54580152671758,
+        "avg_g": 159.7697201017812,
+        "avg_r": 114.8409669211196,
+        "aspect_ratio": 0.9393939393939394,
+        "bbox": [
+          901,
+          422,
+          31,
+          33
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "mole_diamond_right",
+      "props": {
+        "area": 960.0,
+        "avg_b": 79.03515625,
+        "avg_g": 96.0029296875,
+        "avg_r": 95.408203125,
+        "aspect_ratio": 1.2571428571428571,
+        "bbox": [
+          396,
+          401,
+          44,
+          35
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "diamond",
+      "props": {
+        "area": 738.5,
+        "avg_b": 163.04214559386975,
+        "avg_g": 160.1992337164751,
+        "avg_r": 115.18518518518519,
+        "aspect_ratio": 0.96875,
+        "bbox": [
+          249,
+          391,
+          31,
+          32
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "bag",
+      "props": {
+        "area": 2562.5,
+        "avg_b": 93.45015105740181,
+        "avg_g": 129.71865558912387,
+        "avg_r": 146.6178247734139,
+        "aspect_ratio": 0.9206349206349206,
+        "bbox": [
+          995,
+          384,
+          58,
+          63
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "tnt",
+      "props": {
+        "area": 4761.5,
+        "avg_b": 53.37100737100737,
+        "avg_g": 69.47952497952498,
+        "avg_r": 101.67260442260442,
+        "aspect_ratio": 0.6938775510204082,
+        "bbox": [
+          1100,
+          383,
+          68,
+          98
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "bag",
+      "props": {
+        "area": 2563.0,
+        "avg_b": 93.53756134390336,
+        "avg_g": 129.83691959229898,
+        "avg_r": 146.86145715364287,
+        "aspect_ratio": 0.9047619047619048,
+        "bbox": [
+          147,
+          374,
+          57,
+          63
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "mole_diamond_right",
+      "props": {
+        "area": 975.0,
+        "avg_b": 78.64388835418673,
+        "avg_g": 95.68912415784409,
+        "avg_r": 96.06737247353225,
+        "aspect_ratio": 1.2857142857142858,
+        "bbox": [
+          765,
+          360,
+          45,
+          35
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "diamond",
+      "props": {
+        "area": 738.0,
+        "avg_b": 163.7058823529412,
+        "avg_g": 161.08695652173915,
+        "avg_r": 116.70971867007674,
+        "aspect_ratio": 0.96875,
+        "bbox": [
+          974,
+          340,
+          31,
+          32
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "diamond",
+      "props": {
+        "area": 736.5,
+        "avg_b": 163.7055057618438,
+        "avg_g": 161.07298335467348,
+        "avg_r": 116.5518565941101,
+        "aspect_ratio": 0.96875,
+        "bbox": [
+          1064,
+          339,
+          31,
+          32
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "mole_diamond_right",
+      "props": {
+        "area": 998.5,
+        "avg_b": 77.83725305738476,
+        "avg_g": 95.15804327375353,
+        "avg_r": 96.10912511759173,
+        "aspect_ratio": 1.2571428571428571,
+        "bbox": [
+          372,
+          317,
+          44,
+          35
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "tnt",
+      "props": {
+        "area": 4781.5,
+        "avg_b": 53.5834013050571,
+        "avg_g": 69.88682707993475,
+        "avg_r": 102.31627243066885,
+        "aspect_ratio": 0.7010309278350515,
+        "bbox": [
+          99,
+          280,
+          68,
+          97
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "mole_diamond_right",
+      "props": {
+        "area": 1003.0,
+        "avg_b": 77.77340823970037,
+        "avg_g": 95.51685393258427,
+        "avg_r": 97.19101123595506,
+        "aspect_ratio": 1.2857142857142858,
+        "bbox": [
+          928,
+          268,
+          45,
+          35
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "gold_nugget",
+      "props": {
+        "area": 537.0,
+        "avg_b": 77.14409722222221,
+        "avg_g": 156.81423611111111,
+        "avg_r": 192.19965277777777,
+        "aspect_ratio": 1.16,
+        "bbox": [
+          608,
+          251,
+          29,
+          25
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    },
+    {
+      "label": "tnt",
+      "props": {
+        "area": 4789.0,
+        "avg_b": 53.5796009771987,
+        "avg_g": 69.94930781758958,
+        "avg_r": 102.4263029315961,
+        "aspect_ratio": 0.7010309278350515,
+        "bbox": [
+          1068,
+          228,
+          68,
+          97
+        ],
+        "level_index": 6,
+        "source_path": "calibration/screenshots\\step08_levels_7_20251202_032023.png"
+      }
+    }
+  ],
+  "label_stats": {
+    "diamond": {
+      "area": {
+        "count": 17,
+        "mean": 739.9705882352941,
+        "std": 5.085939638533634
+      },
+      "avg_r": {
+        "count": 17,
+        "mean": 116.2215447465848,
+        "std": 1.2770009840545384
+      },
+      "avg_g": {
+        "count": 17,
+        "mean": 161.46160470071496,
+        "std": 1.1805161935349402
+      },
+      "avg_b": {
+        "count": 17,
+        "mean": 164.22762749899883,
+        "std": 1.0573108640818392
+      },
+      "aspect_ratio": {
+        "count": 17,
+        "mean": 0.9457442067736186,
+        "std": 0.019305629861830747
+      }
+    },
+    "gold_large": {
+      "area": {
+        "count": 16,
+        "mean": 14134.21875,
+        "std": 5.314981038301077
+      },
+      "avg_r": {
+        "count": 16,
+        "mean": 194.26619594506732,
+        "std": 0.17182458578791274
+      },
+      "avg_g": {
+        "count": 16,
+        "mean": 152.0193179302845,
+        "std": 0.10035595895798145
+      },
+      "avg_b": {
+        "count": 16,
+        "mean": 53.0558848092407,
+        "std": 0.06120852112962735
+      },
+      "aspect_ratio": {
+        "count": 16,
+        "mean": 1.1295521653543308,
+        "std": 0.004316635037576788
+      }
+    },
+    "rock": {
+      "area": {
+        "count": 22,
+        "mean": 2645.9772727272725,
+        "std": 10.425577455998242
+      },
+      "avg_r": {
+        "count": 22,
+        "mean": 128.41843523964144,
+        "std": 0.5800091476570551
+      },
+      "avg_g": {
+        "count": 22,
+        "mean": 113.67284157015455,
+        "std": 0.30104608595873183
+      },
+      "avg_b": {
+        "count": 22,
+        "mean": 108.00488160723248,
+        "std": 0.15118974818034783
+      },
+      "aspect_ratio": {
+        "count": 22,
+        "mean": 1.0070267720733748,
+        "std": 0.012239833202017174
+      }
+    },
+    "stone": {
+      "area": {
+        "count": 8,
+        "mean": 2140.25,
+        "std": 10.618380290797651
+      },
+      "avg_r": {
+        "count": 8,
+        "mean": 123.90143545386103,
+        "std": 0.8021842596199139
+      },
+      "avg_g": {
+        "count": 8,
+        "mean": 108.05823940967178,
+        "std": 0.3502486837828999
+      },
+      "avg_b": {
+        "count": 8,
+        "mean": 101.93284021132854,
+        "std": 0.1349733514649198
+      },
+      "aspect_ratio": {
+        "count": 8,
+        "mean": 1.2258421985815604,
+        "std": 0.01559313749940359
+      }
+    },
+    "tnt": {
+      "area": {
+        "count": 18,
+        "mean": 4813.333333333333,
+        "std": 14.333333333448847
+      },
+      "avg_r": {
+        "count": 18,
+        "mean": 101.92418202536722,
+        "std": 0.2789006078770331
+      },
+      "avg_g": {
+        "count": 18,
+        "mean": 69.64895595084884,
+        "std": 0.16608374494595363
+      },
+      "avg_b": {
+        "count": 18,
+        "mean": 53.47314476026165,
+        "std": 0.07542432124139067
+      },
+      "aspect_ratio": {
+        "count": 18,
+        "mean": 0.6938317414507893,
+        "std": 0.0019466372220366612
+      }
+    },
+    "skull": {
+      "area": {
+        "count": 4,
+        "mean": 1589.75,
+        "std": 4.9180788932265
+      },
+      "avg_r": {
+        "count": 4,
+        "mean": 119.54046693968826,
+        "std": 0.6231416705744484
+      },
+      "avg_g": {
+        "count": 4,
+        "mean": 97.41093848617702,
+        "std": 0.4256738213948706
+      },
+      "avg_b": {
+        "count": 4,
+        "mean": 85.23968764475596,
+        "std": 0.20666789125313464
+      },
+      "aspect_ratio": {
+        "count": 4,
+        "mean": 1.1511627906976745,
+        "std": 0.011627906976744418
+      }
+    },
+    "bag": {
+      "area": {
+        "count": 9,
+        "mean": 2587.6666666666665,
+        "std": 3.4880749227872254
+      },
+      "avg_r": {
+        "count": 9,
+        "mean": 147.17318945500998,
+        "std": 0.592194350300996
+      },
+      "avg_g": {
+        "count": 9,
+        "mean": 129.99871780469522,
+        "std": 0.3633054515186672
+      },
+      "avg_b": {
+        "count": 9,
+        "mean": 93.60768949538641,
+        "std": 0.2333922018886358
+      },
+      "aspect_ratio": {
+        "count": 9,
+        "mean": 0.9153439153439155,
+        "std": 0.007482611441119951
+      }
+    },
+    "mole_diamond_right": {
+      "area": {
+        "count": 3,
+        "mean": 989.0,
+        "std": 7.257180352356407
+      },
+      "avg_r": {
+        "count": 3,
+        "mean": 96.03859891922285,
+        "std": 0.03397341824365583
+      },
+      "avg_g": {
+        "count": 3,
+        "mean": 95.62840774658123,
+        "std": 0.25208843469705655
+      },
+      "avg_b": {
+        "count": 3,
+        "mean": 78.47868103177,
+        "std": 0.3332342664483326
+      },
+      "aspect_ratio": {
+        "count": 3,
+        "mean": 1.2913165266106443,
+        "std": 0.003961382527659254
+      }
+    },
+    "bone": {
+      "area": {
+        "count": 4,
+        "mean": 795.375,
+        "std": 7.334635301090301
+      },
+      "avg_r": {
+        "count": 4,
+        "mean": 117.50869355145791,
+        "std": 0.746543483596797
+      },
+      "avg_g": {
+        "count": 4,
+        "mean": 95.88435364250205,
+        "std": 0.292593351419891
+      },
+      "avg_b": {
+        "count": 4,
+        "mean": 83.59283985737845,
+        "std": 0.10670445292376766
+      },
+      "aspect_ratio": {
+        "count": 4,
+        "mean": 1.5546875,
+        "std": 0.013531646934131853
+      }
+    },
+    "mole_diamond_left": {
+      "area": {
+        "count": 5,
+        "mean": 1006.7,
+        "std": 10.15184712255967
+      },
+      "avg_r": {
+        "count": 5,
+        "mean": 96.33012850349121,
+        "std": 0.4070149513786471
+      },
+      "avg_g": {
+        "count": 5,
+        "mean": 95.22708012473512,
+        "std": 0.3735266945005555
+      },
+      "avg_b": {
+        "count": 5,
+        "mean": 77.8518761306251,
+        "std": 0.4629649231352424
+      },
+      "aspect_ratio": {
+        "count": 5,
+        "mean": 1.2799999999999998,
+        "std": 0.011428571428615407
+      }
+    },
+    "gold_small": {
+      "area": {
+        "count": 13,
+        "mean": 2061.769230769231,
+        "std": 3.9253387143624687
+      },
+      "avg_r": {
+        "count": 13,
+        "mean": 198.61195926178632,
+        "std": 0.8350949327687789
+      },
+      "avg_g": {
+        "count": 13,
+        "mean": 157.10750423970606,
+        "std": 0.5362070913157002
+      },
+      "avg_b": {
+        "count": 13,
+        "mean": 55.09785110477597,
+        "std": 0.26987899022265754
+      },
+      "aspect_ratio": {
+        "count": 13,
+        "mean": 1.1672804146208402,
+        "std": 0.0126961260234166
+      }
+    },
+    "gold_medium": {
+      "area": {
+        "count": 12,
+        "mean": 9385.291666666666,
+        "std": 3.204543218428965
+      },
+      "avg_r": {
+        "count": 12,
+        "mean": 190.3885268017816,
+        "std": 0.7131156705132995
+      },
+      "avg_g": {
+        "count": 12,
+        "mean": 146.79270565280837,
+        "std": 0.45327068653678426
+      },
+      "avg_b": {
+        "count": 12,
+        "mean": 51.52091499661003,
+        "std": 0.2698025492378337
+      },
+      "aspect_ratio": {
+        "count": 12,
+        "mean": 1.1819119233453896,
+        "std": 0.006751765281694105
+      }
+    },
+    "gold_nugget": {
+      "area": {
+        "count": 18,
+        "mean": 543.1944444444445,
+        "std": 2.5881078936357875
+      },
+      "avg_r": {
+        "count": 18,
+        "mean": 192.14333047213998,
+        "std": 1.4461262779641924
+      },
+      "avg_g": {
+        "count": 18,
+        "mean": 156.84381877395998,
+        "std": 1.1132934162610735
+      },
+      "avg_b": {
+        "count": 18,
+        "mean": 77.12276271584409,
+        "std": 0.5163075451254807
+      },
+      "aspect_ratio": {
+        "count": 18,
+        "mean": 1.1410256410256412,
+        "std": 0.025367774781593792
+      }
+    },
+    "mole_left": {
+      "area": {
+        "count": 5,
+        "mean": 849.3,
+        "std": 8.686771552198156
+      },
+      "avg_r": {
+        "count": 5,
+        "mean": 98.4470304953611,
+        "std": 0.6542324358892009
+      },
+      "avg_g": {
+        "count": 5,
+        "mean": 60.676725683989424,
+        "std": 0.44733934347979215
+      },
+      "avg_b": {
+        "count": 5,
+        "mean": 34.41411848960699,
+        "std": 0.3148962479998749
+      },
+      "aspect_ratio": {
+        "count": 5,
+        "mean": 1.4387096774193548,
+        "std": 0.01580315963087333
+      }
+    },
+    "mole_right": {
+      "area": {
+        "count": 2,
+        "mean": 845.75,
+        "std": 0.75
+      },
+      "avg_r": {
+        "count": 2,
+        "mean": 98.6118974232225,
+        "std": 0.1823820047164597
+      },
+      "avg_g": {
+        "count": 2,
+        "mean": 60.736865316487595,
+        "std": 0.11571994203964102
+      },
+      "avg_b": {
+        "count": 2,
+        "mean": 34.44410096295973,
+        "std": 0.06855030216676723
+      },
+      "aspect_ratio": {
+        "count": 2,
+        "mean": 1.435483870967742,
+        "std": 0.01612903225806917
+      }
+    }
+  },
+  "label_ranges": {
+    "bone": {
+      "area": {
+        "low": -Infinity,
+        "high": 369.8942307692308
+      },
+      "avg_r": {
+        "low": 170.0216786408848,
+        "high": 193.7700003946175
+      },
+      "avg_g": {
+        "low": 171.94092767831646,
+        "high": Infinity
+      },
+      "avg_b": {
+        "low": 147.25477686668708,
+        "high": 164.84963767543098
+      },
+      "aspect_ratio": {
+        "low": 1.6150856389986825,
+        "high": Infinity
+      }
+    },
+    "gold_nugget": {
+      "area": {
+        "low": 369.8942307692308,
+        "high": 591.3406593406594
+      },
+      "avg_r": {
+        "low": 200.99517276322587,
+        "high": 206.38859822142336
+      },
+      "avg_g": {
+        "low": 167.5996089442233,
+        "high": 171.94092767831646
+      },
+      "avg_b": {
+        "low": 81.51531612660749,
+        "high": 84.98391325891019
+      },
+      "aspect_ratio": {
+        "low": 1.1494933487970656,
+        "high": 1.16516861761427
+      }
+    },
+    "diamond": {
+      "area": {
+        "low": 591.3406593406594,
+        "high": 733.2214285714285
+      },
+      "avg_r": {
+        "low": 111.90293438026802,
+        "high": 119.40728497775774
+      },
+      "avg_g": {
+        "low": 159.66983134018005,
+        "high": 165.12439408773764
+      },
+      "avg_b": {
+        "low": 164.84963767543098,
+        "high": Infinity
+      },
+      "aspect_ratio": {
+        "low": 0.9255254154447703,
+        "high": 0.9857140598174754
+      }
+    },
+    "mole_right": {
+      "area": {
+        "low": 733.2214285714285,
+        "high": 768.9
+      },
+      "avg_r": {
+        "low": 100.05554911874701,
+        "high": 103.35988450733598
+      },
+      "avg_g": {
+        "low": 61.814992292823234,
+        "high": 67.99331470191845
+      },
+      "avg_b": {
+        "low": -Infinity,
+        "high": 34.550895857053746
+      },
+      "aspect_ratio": {
+        "low": 1.359233193277311,
+        "high": 1.4457575757575758
+      }
+    },
+    "mole_left": {
+      "area": {
+        "low": 768.9,
+        "high": 857.25
+      },
+      "avg_r": {
+        "low": 98.77554446103053,
+        "high": 100.05554911874701
+      },
+      "avg_g": {
+        "low": -Infinity,
+        "high": 61.814992292823234
+      },
+      "avg_b": {
+        "low": 34.550895857053746,
+        "high": 43.48161733778858
+      },
+      "aspect_ratio": {
+        "low": 1.4457575757575758,
+        "high": 1.6150856389986825
+      }
+    },
+    "mole_diamond_left": {
+      "area": {
+        "low": 857.25,
+        "high": 933.75
+      },
+      "avg_r": {
+        "low": -Infinity,
+        "high": 97.39705113820754
+      },
+      "avg_g": {
+        "low": 86.12117918586786,
+        "high": 98.20508634686395
+      },
+      "avg_b": {
+        "low": 69.00757805888259,
+        "high": 80.65370249973827
+      },
+      "aspect_ratio": {
+        "low": 1.2720351500924256,
+        "high": 1.359233193277311
+      }
+    },
+    "mole_diamond_right": {
+      "area": {
+        "low": 933.75,
+        "high": 1195.84375
+      },
+      "avg_r": {
+        "low": 97.39705113820754,
+        "high": 98.77554446103053
+      },
+      "avg_g": {
+        "low": 98.20508634686395,
+        "high": 99.05917049121996
+      },
+      "avg_b": {
+        "low": 80.65370249973827,
+        "high": 81.51531612660749
+      },
+      "aspect_ratio": {
+        "low": 1.2345212075648697,
+        "high": 1.2634742257226776
+      }
+    },
+    "stone": {
+      "area": {
+        "low": 1195.84375,
+        "high": 1481.09375
+      },
+      "avg_r": {
+        "low": 145.52395596563804,
+        "high": 147.10427649439958
+      },
+      "avg_g": {
+        "low": 135.82125819488806,
+        "high": 143.94139370710187
+      },
+      "avg_b": {
+        "low": 132.55165814317382,
+        "high": 147.25477686668708
+      },
+      "aspect_ratio": {
+        "low": 1.2634742257226776,
+        "high": 1.2720351500924256
+      }
+    },
+    "skull": {
+      "area": {
+        "low": 1481.09375,
+        "high": 1690.45
+      },
+      "avg_r": {
+        "low": 119.40728497775774,
+        "high": 133.53483292943315
+      },
+      "avg_g": {
+        "low": 99.05917049121996,
+        "high": 115.7432052711111
+      },
+      "avg_b": {
+        "low": 84.98391325891019,
+        "high": 91.21269890320185
+      },
+      "aspect_ratio": {
+        "low": 1.16516861761427,
+        "high": 1.1733915239350021
+      }
+    },
+    "gold_small": {
+      "area": {
+        "low": 1690.45,
+        "high": 1919.075
+      },
+      "avg_r": {
+        "low": 206.38859822142336,
+        "high": Infinity
+      },
+      "avg_g": {
+        "low": 165.12439408773764,
+        "high": 167.5996089442233
+      },
+      "avg_b": {
+        "low": 55.208626145121684,
+        "high": 57.13221388062261
+      },
+      "aspect_ratio": {
+        "low": 1.1733915239350021,
+        "high": 1.1939071292589754
+      }
+    },
+    "rock": {
+      "area": {
+        "low": 1919.075,
+        "high": 2235.534090909091
+      },
+      "avg_r": {
+        "low": 133.53483292943315,
+        "high": 145.52395596563804
+      },
+      "avg_g": {
+        "low": 133.6840406588376,
+        "high": 135.82125819488806
+      },
+      "avg_b": {
+        "low": 113.62659021592492,
+        "high": 132.55165814317382
+      },
+      "aspect_ratio": {
+        "low": 0.9857140598174754,
+        "high": 1.0824619860847564
+      }
+    },
+    "bag": {
+      "area": {
+        "low": 2235.534090909091,
+        "high": 3273.0202020202023
+      },
+      "avg_r": {
+        "low": 147.10427649439958,
+        "high": 170.0216786408848
+      },
+      "avg_g": {
+        "low": 115.7432052711111,
+        "high": 133.6840406588376
+      },
+      "avg_b": {
+        "low": 91.21269890320185,
+        "high": 113.62659021592492
+      },
+      "aspect_ratio": {
+        "low": 0.7917665940106333,
+        "high": 0.9255254154447703
+      }
+    },
+    "tnt": {
+      "area": {
+        "low": 3273.0202020202023,
+        "high": 6395.819444444444
+      },
+      "avg_r": {
+        "low": 103.35988450733598,
+        "high": 111.90293438026802
+      },
+      "avg_g": {
+        "low": 67.99331470191845,
+        "high": 86.12117918586786
+      },
+      "avg_b": {
+        "low": 57.13221388062261,
+        "high": 69.00757805888259
+      },
+      "aspect_ratio": {
+        "low": -Infinity,
+        "high": 0.7917665940106333
+      }
+    },
+    "gold_medium": {
+      "area": {
+        "low": 6395.819444444444,
+        "high": 11169.208333333332
+      },
+      "avg_r": {
+        "low": 193.7700003946175,
+        "high": 196.66753863023757
+      },
+      "avg_g": {
+        "low": 143.94139370710187,
+        "high": 153.36819687120374
+      },
+      "avg_b": {
+        "low": 43.48161733778858,
+        "high": 52.96927636290984
+      },
+      "aspect_ratio": {
+        "low": 1.1939071292589754,
+        "high": 1.2345212075648697
+      }
+    },
+    "gold_large": {
+      "area": {
+        "low": 11169.208333333332,
+        "high": Infinity
+      },
+      "avg_r": {
+        "low": 196.66753863023757,
+        "high": 200.99517276322587
+      },
+      "avg_g": {
+        "low": 153.36819687120374,
+        "high": 159.66983134018005
+      },
+      "avg_b": {
+        "low": 52.96927636290984,
+        "high": 55.208626145121684
+      },
+      "aspect_ratio": {
+        "low": 1.0824619860847564,
+        "high": 1.1494933487970656
+      }
+    }
+  },
+  "hook_patch_center": [
+    621,
+    184
+  ],
+  "hook_patch_width": 158,
+  "hook_patch_height": 79,
+  "hook_center": [
+    623,
+    153
+  ],
+  "hook_center_offset_ratio": 0.1
+}
